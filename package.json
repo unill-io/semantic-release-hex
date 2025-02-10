@@ -29,7 +29,7 @@
     "@semantic-release/error": "^4.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "19.6.1",
+    "@commitlint/cli": "19.7.1",
     "@eslint/js": "9.18.0",
     "@insurgent/commitlint-config": "20.0.0",
     "@insurgent/conventional-changelog-preset": "10.0.0",
